@@ -1,0 +1,21 @@
+.Deck{
+    text-align: center;
+    position: relative;
+}
+
+.Deck-cards{
+    position: relative;
+    margin-top: 3rem;
+}
+
+.draw-btn, .shuffle-btn{
+    margin: 2rem;
+}
+
+.draw-btn{
+    background-color: lightskyblue;
+}
+
+.shuffle-btn{
+    background-color: yellow;
+}
